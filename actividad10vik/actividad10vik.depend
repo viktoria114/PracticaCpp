@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1699141269 source:c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\main.cpp
+	<iostream>
+	<string>
+	"vehiculo.h"
+	"auto.h"
+	"moto.h"
+
+1699137273 source:c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\src\vehiculo.cpp
+	"vehiculo.h"
+	<iostream>
+
+1699139578 c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\include\vehiculo.h
+	<iostream>
+	<string>
+
+1699138244 source:c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\src\moto.cpp
+	"moto.h"
+	<iostream>
+
+1699140064 c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\include\moto.h
+	<vehiculo.h>
+
+1699138388 source:c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\src\auto.cpp
+	"auto.h"
+	<iostream>
+
+1699140728 c:\users\vikto\onedrive\escritorio\programacion\actividad10vik\include\auto.h
+	"vehiculo.h"
+

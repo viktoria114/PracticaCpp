@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696938842 source:c:\users\vikto\onedrive\escritorio\programacion\progarancioc++\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
